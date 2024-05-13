@@ -66,6 +66,7 @@ body {
     background-color: #585858;
     color: white;
   }
+  
 footer{
     width: 100%;
     overflow: hidden;
@@ -106,8 +107,10 @@ footer nav a:hover{
 footer nav a img{
     float: left;
     margin-left: 140px;
+}
+
 img{
   width: 530px;
   height: 350px;
 }
-}
+
