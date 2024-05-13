@@ -102,4 +102,8 @@ footer nav a:hover{
 footer nav a img{
     float: left;
     margin-left: 140px;
+img{
+  width: 500px;
+  height: 150px;
+}
 }
