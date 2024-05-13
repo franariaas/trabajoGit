@@ -62,5 +62,44 @@ body {
     background-color: #585858;
     color: white;
   }
+footer{
+    width: 100%;
+    overflow: hidden;
+    background: #090a0e;
+    margin-top: 20px;
+    height: 75px;
+    z-index: 1;
+}
 
+footer nav{
+    float: left;
+    line-height: 30px;
+}
+
+footer nav img{
+    width: 30px;
+}
+
+footer nav a{
+    display: inline-block;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px;
+    line-height: normal;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: CarterOne;
+    -webkit-transition: all 500ms ease;
+    -o-transition: all 500ms ease;
+    transition: all 500ms ease;
+}
+
+footer nav a:hover{
+    background-color: grey;
+    border-radius: 50px;
+}
+
+footer nav a img{
+    float: left;
+    margin-left: 140px;
 }
