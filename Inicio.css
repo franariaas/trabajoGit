@@ -67,6 +67,29 @@ body {
     color: white;
   }
   
+  .comedy-section {
+    margin-top: 50px;
+    text-align: center;
+  }
+  .comedy-section h2 {
+    color: white;
+    font-size: 36px;
+    margin-bottom: 30px;
+  }
+  .comedy-section img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    margin-right: 20px;
+    margin-bottom: 20px;
+  }
+  .comedy-section p {
+    color: white;
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+
+
 footer{
     width: 100%;
     overflow: hidden;
@@ -113,4 +136,3 @@ img{
   width: 530px;
   height: 350px;
 }
-
