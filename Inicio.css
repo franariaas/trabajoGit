@@ -163,6 +163,30 @@ th {
     background-color: #444;
 }
 
+#faq {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    margin-top: 50px;
+    text-align: center;
+  }
+  
+  #faq h1 {
+    font-size: 36px;
+    margin-bottom: 30px;
+  }
+  
+  #faq h2 {
+    font-size: 24px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  
+  #faq p {
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+
 
 footer {
     width: 100%;
