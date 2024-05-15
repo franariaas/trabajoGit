@@ -86,7 +86,7 @@ th {
     object-fit: cover;
     margin-bottom: 10px;
   }
-}
+
 
 .comedy-section {
     margin-top: 50px;
@@ -109,6 +109,52 @@ th {
     font-size: 18px;
     margin-bottom: 20px;
 }
+
+#register-form {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    margin-top: 50px;
+    text-align: center;
+  }
+  
+  #register-form h1 {
+    font-size: 36px;
+    margin-bottom: 30px;
+  }
+  
+  #register-form label {
+    display: block;
+    margin-top: 20px;
+    font-size: 24px;
+  }
+  
+  #register-form input[type="text"],
+  #register-form input[type="email"],
+  #register-form input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+  }
+  
+  #register-form input[type="submit"] {
+    background-color: #585858;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 24px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  #register-form input[type="submit"]:hover {
+    background-color: #444;
+  }
 
 
 footer{
