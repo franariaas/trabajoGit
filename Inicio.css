@@ -242,6 +242,7 @@ img.casoAsunta,
     height: 350px;
     margin-left: 2%;
     border-radius: 2%;
+    float: left;
 }
 
 #register-form{
