@@ -66,8 +66,6 @@ body {
     background-color: #585858;
     color: white;
   }
-<<<<<<< Updated upstream
-=======
   
   .comedy-grid {
     display: flex;
@@ -111,7 +109,6 @@ body {
 }
 
 
->>>>>>> Stashed changes
 footer{
     width: 100%;
     overflow: hidden;
@@ -153,12 +150,10 @@ footer nav a img{
     float: left;
     margin-left: 140px;
 }
-<<<<<<< Updated upstream
 img{
   width: 530px;
   height: 350px;
-=======
-
+}
 img.casoAsunta,.oppenheimer{
     width: 530px;
     height: 350px;
@@ -168,5 +163,4 @@ img.casoAsunta,.oppenheimer{
 
 p.pcasoAsunta{
     
->>>>>>> Stashed changes
 }
