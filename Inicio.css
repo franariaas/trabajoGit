@@ -66,6 +66,52 @@ body {
     background-color: #585858;
     color: white;
   }
+<<<<<<< Updated upstream
+=======
+  
+  .comedy-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .comedy-item {
+    margin: 20px;
+    width: calc(25% - 40px);
+  }
+  
+  .comedy-item img {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+    margin-bottom: 10px;
+}
+
+
+.comedy-section {
+    margin-top: 50px;
+    text-align: center;
+}
+.comedy-section h2 {
+    color: white;
+    font-size: 36px;
+    margin-bottom: 30px;
+}
+.comedy-section img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+.comedy-section p {
+    color: white;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+
+>>>>>>> Stashed changes
 footer{
     width: 100%;
     overflow: hidden;
@@ -107,7 +153,20 @@ footer nav a img{
     float: left;
     margin-left: 140px;
 }
+<<<<<<< Updated upstream
 img{
   width: 530px;
   height: 350px;
+=======
+
+img.casoAsunta,.oppenheimer{
+    width: 530px;
+    height: 350px;
+    margin-left: 2%;
+    border-radius: 2%;
+}
+
+p.pcasoAsunta{
+    
+>>>>>>> Stashed changes
 }
