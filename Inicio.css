@@ -229,8 +229,17 @@ footer nav a img {
     float: left;
     margin-left: 140px;
 }
-
-img.casoAsunta {
+img{
+  width: 530px;
+  height: 350px;
+}
+img.casoAsunta,.oppenheimer{
     width: 530px;
     height: 350px;
+    margin-left: 2%;
+    border-radius: 2%;
+}
+
+p.pcasoAsunta{
+    
 }
