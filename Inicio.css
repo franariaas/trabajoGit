@@ -3,6 +3,12 @@
     margin: 0;
 }
 
+.logo {
+    float: left;
+    width: 50px;
+    margin-left: 10px;
+}
+
 header {
     width: 100%;
     overflow: hidden;
