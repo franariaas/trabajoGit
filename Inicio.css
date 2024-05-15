@@ -237,3 +237,18 @@ img.casoAsunta,
     margin-left: 2%;
     border-radius: 2%;
 }
+
+#register-form{
+    width: 750px;
+    margin-left: 25%;
+    border-radius: 5%;
+    background: linear-gradient(180deg, rgb(77, 34, 34) 0%, rgb(23, 3, 3) 100%);
+
+}
+
+#faq{
+    width: 540px;
+    margin-left: 30%;
+    border-radius: 5%;
+    background: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgb(169, 167, 167) 100%);
+}
