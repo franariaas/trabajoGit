@@ -68,6 +68,8 @@ th {
     background-color: #585858;
     color: white;
   }
+<<<<<<< Updated upstream
+=======
   
   .comedy-grid {
     display: flex;
@@ -85,8 +87,8 @@ th {
     height: 150px;
     object-fit: cover;
     margin-bottom: 10px;
-  }
 }
+
 
 .comedy-section {
     margin-top: 50px;
@@ -111,6 +113,7 @@ th {
 }
 
 
+>>>>>>> Stashed changes
 footer{
     width: 100%;
     overflow: hidden;
@@ -152,8 +155,20 @@ footer nav a img{
     float: left;
     margin-left: 140px;
 }
+<<<<<<< Updated upstream
+img{
+  width: 530px;
+  height: 350px;
+=======
 
-img.casoAsunta{
+img.casoAsunta,.oppenheimer{
     width: 530px;
     height: 350px;
+    margin-left: 2%;
+    border-radius: 2%;
+}
+
+p.pcasoAsunta{
+    
+>>>>>>> Stashed changes
 }
