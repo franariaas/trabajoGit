@@ -1,6 +1,6 @@
 *{
-  padding: 0;
-  margin: 0;
+    padding: 0;
+    margin: 0;
 }
 header{
     width: 100%;
@@ -52,17 +52,19 @@ header nav a:hover{
 body {
     background-color: black;
     color: white;
-  }
-  table {
+}
+table {
     border-collapse: collapse;
     width: 100%;
-  }
-  th, td {
+}
+
+th, td {
     border: 1px solid white;
     padding: 8px;
     text-align: left;
-  }
-  th {
+}
+
+th {
     background-color: #585858;
     color: white;
   }
@@ -84,6 +86,29 @@ body {
     object-fit: cover;
     margin-bottom: 10px;
   }
+}
+
+.comedy-section {
+    margin-top: 50px;
+    text-align: center;
+}
+.comedy-section h2 {
+    color: white;
+    font-size: 36px;
+    margin-bottom: 30px;
+}
+.comedy-section img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+.comedy-section p {
+    color: white;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
 
 
 footer{
@@ -129,6 +154,6 @@ footer nav a img{
 }
 
 img{
-  width: 530px;
-  height: 350px;
+    width: 530px;
+    height: 350px;
 }
